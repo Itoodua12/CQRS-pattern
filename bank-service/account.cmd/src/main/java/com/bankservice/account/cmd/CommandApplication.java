@@ -1,7 +1,6 @@
 package com.bankservice.account.cmd;
 
 import com.bankservice.account.cmd.api.command.*;
-import com.bankservice.account.cmd.command.*;
 import com.bankservice.cqrs.core.infrastructure.CommandDispatcher;
 import jakarta.annotation.PostConstruct;
 import org.springframework.beans.factory.annotation.Autowired;
