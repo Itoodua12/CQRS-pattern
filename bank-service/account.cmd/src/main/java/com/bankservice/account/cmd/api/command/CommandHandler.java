@@ -1,4 +1,4 @@
-package com.bankservice.account.cmd.command;
+package com.bankservice.account.cmd.api.command;
 
 public interface CommandHandler {
 

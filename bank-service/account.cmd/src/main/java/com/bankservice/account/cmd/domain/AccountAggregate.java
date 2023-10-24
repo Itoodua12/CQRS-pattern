@@ -1,6 +1,6 @@
 package com.bankservice.account.cmd.domain;
 
-import com.bankservice.account.cmd.command.OpenAccountCommand;
+import com.bankservice.account.cmd.api.command.OpenAccountCommand;
 import com.bankservice.account.common.events.AccountClosedEvent;
 import com.bankservice.account.common.events.AccountOpenedEvent;
 import com.bankservice.account.common.events.FundsDepositedEvent;
